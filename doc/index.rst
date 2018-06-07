@@ -7,6 +7,8 @@ Documentation of scortest
 First title
 +++++++++++
 
+Stupid coding
+
 Location on github `scortest <https://github.com/xadupre/scortest>`_.
 
 API
